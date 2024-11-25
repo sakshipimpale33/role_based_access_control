@@ -20,6 +20,7 @@ This is a **Role Based Access Control (RBAC)** application built using **Node.js
 - **Session Management**: Manages sessions using **express-session** and **MongoDB store** to persist login even after server reboot.
 
 
+![Screenshot 2024-11-25 003517](https://github.com/user-attachments/assets/c7156fc5-feb5-493f-ac02-efe32040916e)
 
 
 
