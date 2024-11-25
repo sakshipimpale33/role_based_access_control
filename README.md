@@ -15,8 +15,7 @@ This is a **Role Based Access Control (RBAC)** application built using **Node.js
 - **MVC Pattern**: Follows the Model-View-Controller design pattern for clear code separation.
 - **Session Management**: Manages sessions using **express-session** and **MongoDB store** to persist login even after server reboot.
 
-The application is almost **production-ready**, with the necessary features and optimizations for secure and efficient authentication and authorization.
 
-## Project Setup
+
 
 
