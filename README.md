@@ -24,3 +24,8 @@ This is a **Role Based Access Control (RBAC)** application built using **Node.js
 
 
 
+![Screenshot 2024-11-25 003614](https://github.com/user-attachments/assets/b0bfc81d-1d5c-4f1f-b43b-3a215305f5c5)
+
+
+
+
