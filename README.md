@@ -1,9 +1,9 @@
-# role_based_access_control
+
 # Role Based Access Control (RBAC) Application
 
 This is a **Role Based Access Control (RBAC)** application built using **Node.js**, **Express.js**, **Passport.js**, **MongoDB**, and **Mongoose**. This application demonstrates user authentication and authorization based on roles like **admin**, **moderator**, and **client**. You can use this application as a starting point for your projects that require user authentication and role-based authorization.
 
-> **Still in development mode...**
+
 
 ## Features
 
@@ -18,9 +18,4 @@ The application is almost **production-ready**, with the necessary features and 
 
 ## Project Setup
 
-Follow these steps to set up the project:
 
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/trulymittal/role-based-access-control
